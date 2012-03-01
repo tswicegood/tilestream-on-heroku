@@ -1,0 +1,7 @@
+{
+  "name": "texas-counties",
+  "version": "0.0.1",
+  "dependencies": {
+    "tilestream": "1.0.0"
+  }
+}
